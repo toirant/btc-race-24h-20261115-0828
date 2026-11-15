@@ -24,7 +24,7 @@ import { BPS, runBars, type Bar, type BarsState, type BuyInput, type SellInput }
 const LOOKBACK_BARS = 90;
 const TAKE_PROFIT = 0.02;
 const STOP_LOSS = 0.006;
-const TRAILING_STOP = 0.006;
+const TRAILING_STOP = 0.005;
 const MAX_HOLD_BARS = 120;
 const MAX_SLIPPAGE_BPS = 100;
 
